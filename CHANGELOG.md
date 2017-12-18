@@ -1,31 +1,31 @@
 
-## [v4.17.0](https://github.com/pubnub/java/tree/v4.17.0)
+## [v4.17.0](https://github.com/immigrantsheep/java/tree/v4.17.0)
   December-14-2017
 
 
-  [Full Changelog](https://github.com/pubnub/java/compare/v4.16.0...v4.17.0)
+  [Full Changelog](https://github.com/immigrantsheep/java/compare/v4.16.0...v4.17.0)
 
 
 - ⭐test release
 
 
 
-## [v4.16.0](https://github.com/pubnub/java/tree/v4.16.0)
+## [v4.16.0](https://github.com/immigrantsheep/java/tree/v4.16.0)
   November-21-2017
 
 
-  [Full Changelog](https://github.com/pubnub/java/compare/v4.15.0...v4.16.0)
+  [Full Changelog](https://github.com/immigrantsheep/java/compare/v4.15.0...v4.16.0)
 
 
 - ⭐allow setting setMaximumConnections to open more connections to PubNub
 
 
 
-## [v4.15.0](https://github.com/pubnub/java/tree/v4.15.0)
+## [v4.15.0](https://github.com/immigrantsheep/java/tree/v4.15.0)
   November-17-2017
 
 
-  [Full Changelog](https://github.com/pubnub/java/compare/v4.14.0...v4.15.0)
+  [Full Changelog](https://github.com/immigrantsheep/java/compare/v4.14.0...v4.15.0)
 
 
 - ⭐update gson dependency
@@ -38,22 +38,22 @@
 - 🐛close hanging threads on shutdown
 
 
-## [v4.14.0](https://github.com/pubnub/java/tree/v4.14.0)
+## [v4.14.0](https://github.com/immigrantsheep/java/tree/v4.14.0)
   October-25-2017
 
 
-  [Full Changelog](https://github.com/pubnub/java/compare/v4.13.0...v4.14.0)
+  [Full Changelog](https://github.com/immigrantsheep/java/compare/v4.13.0...v4.14.0)
 
 
 - ⭐add support to supress leave events
 
 
 
-## [v4.13.0](https://github.com/pubnub/java/tree/v4.13.0)
+## [v4.13.0](https://github.com/immigrantsheep/java/tree/v4.13.0)
   October-23-2017
 
 
-  [Full Changelog](https://github.com/pubnub/java/compare/v4.12.0...v4.13.0)
+  [Full Changelog](https://github.com/immigrantsheep/java/compare/v4.12.0...v4.13.0)
 
 
 - ⭐do not execute subscribe on empty string channel, channel groups
@@ -63,11 +63,11 @@
 
 
 
-## [v4.12.0](https://github.com/pubnub/java/tree/v4.12.0)
+## [v4.12.0](https://github.com/immigrantsheep/java/tree/v4.12.0)
   October-05-2017
 
 
-  [Full Changelog](https://github.com/pubnub/java/compare/v4.11.0...v4.12.0)
+  [Full Changelog](https://github.com/immigrantsheep/java/compare/v4.11.0...v4.12.0)
 
 
 
@@ -77,55 +77,55 @@
 
 
 
-## [v4.11.0](https://github.com/pubnub/java/tree/v4.11.0)
+## [v4.11.0](https://github.com/immigrantsheep/java/tree/v4.11.0)
   October-05-2017
 
 
-  [Full Changelog](https://github.com/pubnub/java/compare/v4.10.0...v4.11.0)
+  [Full Changelog](https://github.com/immigrantsheep/java/compare/v4.10.0...v4.11.0)
 
 
 
 - 🐛fix retrofit unloading.
 
 
-## [v4.10.0](https://github.com/pubnub/java/tree/v4.10.0)
+## [v4.10.0](https://github.com/immigrantsheep/java/tree/v4.10.0)
   September-17-2017
 
 
-  [Full Changelog](https://github.com/pubnub/java/compare/v4.9.1...v4.10.0)
+  [Full Changelog](https://github.com/immigrantsheep/java/compare/v4.9.1...v4.10.0)
 
 - 🌟rework the loading of services to load the classes once.
 
 
 
 
-## [v4.9.1](https://github.com/pubnub/java/tree/v4.9.1)
+## [v4.9.1](https://github.com/immigrantsheep/java/tree/v4.9.1)
   August-14-2017
 
 
-  [Full Changelog](https://github.com/pubnub/java/compare/v4.9.0...v4.9.1)
+  [Full Changelog](https://github.com/immigrantsheep/java/compare/v4.9.0...v4.9.1)
 
 - 🌟patch-up to the deduping algorithm
 
 
 
 
-## [v4.9.0](https://github.com/pubnub/java/tree/v4.9.0)
+## [v4.9.0](https://github.com/immigrantsheep/java/tree/v4.9.0)
   August-14-2017
 
 
-  [Full Changelog](https://github.com/pubnub/java/compare/v4.8.0...v4.9.0)
+  [Full Changelog](https://github.com/immigrantsheep/java/compare/v4.8.0...v4.9.0)
 
 - 🌟Internal deduping mechanism when devices cross regions (dedupOnSubscribe).
 
 
 
 
-## [v4.8.0](https://github.com/pubnub/java/tree/v4.8.0)
+## [v4.8.0](https://github.com/immigrantsheep/java/tree/v4.8.0)
   August-08-2017
 
 
-  [Full Changelog](https://github.com/pubnub/java/compare/v4.7.0...v4.8.0)
+  [Full Changelog](https://github.com/immigrantsheep/java/compare/v4.7.0...v4.8.0)
 
 - 🌟Allow certificate pinning via setCertificatePinner on PNConfiguration
 
@@ -138,66 +138,66 @@
 
 
 
-## [v4.7.0](https://github.com/pubnub/java/tree/v4.7.0)
+## [v4.7.0](https://github.com/immigrantsheep/java/tree/v4.7.0)
   July-20-2017
 
 
-  [Full Changelog](https://github.com/pubnub/java/compare/v4.6.5...v4.7.0)
+  [Full Changelog](https://github.com/immigrantsheep/java/compare/v4.6.5...v4.7.0)
 
 - 🌟Allow injection of httpLoggingInterceptor for extra logging monitoring..
 
 
 
 
-## [v4.6.5](https://github.com/pubnub/java/tree/v4.6.5)
+## [v4.6.5](https://github.com/immigrantsheep/java/tree/v4.6.5)
   June-28-2017
 
 
-  [Full Changelog](https://github.com/pubnub/java/compare/v4.6.4...v4.6.5)
+  [Full Changelog](https://github.com/immigrantsheep/java/compare/v4.6.4...v4.6.5)
 
 
 
 - 🐛adjust queue exceeded notifications to be greater or equal of.
 
 
-## [v4.6.4](https://github.com/pubnub/java/tree/v4.6.4)
+## [v4.6.4](https://github.com/immigrantsheep/java/tree/v4.6.4)
   June-10-2017
 
 
-  [Full Changelog](https://github.com/pubnub/java/compare/v4.6.3...v4.6.4)
+  [Full Changelog](https://github.com/immigrantsheep/java/compare/v4.6.3...v4.6.4)
 
 
 
 - 🐛gracefully handle disabled history
 
 
-## [v4.6.3](https://github.com/pubnub/java/tree/v4.6.3)
+## [v4.6.3](https://github.com/immigrantsheep/java/tree/v4.6.3)
   June-03-2017
 
 
-  [Full Changelog](https://github.com/pubnub/java/compare/v4.6.2...v4.6.3)
+  [Full Changelog](https://github.com/immigrantsheep/java/compare/v4.6.2...v4.6.3)
 
 - 🌟on interval events, pass hereNowRefresh to indicate if a here_now fetch is needed.
 
 
 
 
-## [v4.6.2](https://github.com/pubnub/java/tree/v4.6.2)
+## [v4.6.2](https://github.com/immigrantsheep/java/tree/v4.6.2)
   April-13-2017
 
 
-  [Full Changelog](https://github.com/pubnub/java/compare/v4.6.1...v4.6.2)
+  [Full Changelog](https://github.com/immigrantsheep/java/compare/v4.6.1...v4.6.2)
 
 - 🌟set a name for Subscription Manager Consumer Thead.
 
 
 
 
-## [v4.6.1](https://github.com/pubnub/java/tree/v4.6.1)
+## [v4.6.1](https://github.com/immigrantsheep/java/tree/v4.6.1)
   April-06-2017
 
 
-  [Full Changelog](https://github.com/pubnub/java/compare/v4.6.0...v4.6.1)
+  [Full Changelog](https://github.com/immigrantsheep/java/compare/v4.6.0...v4.6.1)
 
 
 
@@ -207,11 +207,11 @@
 
 
 
-## [v4.6.0](https://github.com/pubnub/java/tree/v4.6.0)
+## [v4.6.0](https://github.com/immigrantsheep/java/tree/v4.6.0)
   March-14-2017
 
 
-  [Full Changelog](https://github.com/pubnub/java/compare/v4.5.0...v4.6.0)
+  [Full Changelog](https://github.com/immigrantsheep/java/compare/v4.5.0...v4.6.0)
 
 - 🌟To distinguish UUID's that were generated by our SDK, we appended `pn-` before the UUID to signal that it's a randomly generated UUID.
 
@@ -224,66 +224,66 @@
 
 
 
-## [v4.5.0](https://github.com/pubnub/java/tree/v4.5.0)
+## [v4.5.0](https://github.com/immigrantsheep/java/tree/v4.5.0)
   February-15-2017
 
 
-  [Full Changelog](https://github.com/pubnub/java/compare/v4.4.4...v4.5.0)
+  [Full Changelog](https://github.com/immigrantsheep/java/compare/v4.4.4...v4.5.0)
 
 - 🌟add .toString methods to all public facing models and POJOs
 
 
 
 
-## [v4.4.4](https://github.com/pubnub/java/tree/v4.4.4)
+## [v4.4.4](https://github.com/immigrantsheep/java/tree/v4.4.4)
   February-06-2017
 
 
-  [Full Changelog](https://github.com/pubnub/java/compare/v4.4.3...v4.4.4)
+  [Full Changelog](https://github.com/immigrantsheep/java/compare/v4.4.3...v4.4.4)
 
 - 🌟Add support to configure host name verifier.
 
 
 
 
-## [v4.4.3](https://github.com/pubnub/java/tree/v4.4.3)
+## [v4.4.3](https://github.com/immigrantsheep/java/tree/v4.4.3)
   February-02-2017
 
 
-  [Full Changelog](https://github.com/pubnub/java/compare/v4.4.2...v4.4.3)
+  [Full Changelog](https://github.com/immigrantsheep/java/compare/v4.4.2...v4.4.3)
 
 - 🌟Add support to configure custom certificate pinning via SSLSocketFactory and X509 configuration objects.
 
 
 
 
-## [v4.4.2](https://github.com/pubnub/java/tree/v4.4.2)
+## [v4.4.2](https://github.com/immigrantsheep/java/tree/v4.4.2)
   January-31-2017
 
 
-  [Full Changelog](https://github.com/pubnub/java/compare/v4.4.1...v4.4.2)
+  [Full Changelog](https://github.com/immigrantsheep/java/compare/v4.4.1...v4.4.2)
 
 
 
 - 🐛SDK was not sending the user metadata on Message Callback
 
 
-## [v4.4.1](https://github.com/pubnub/java/tree/v4.4.1)
+## [v4.4.1](https://github.com/immigrantsheep/java/tree/v4.4.1)
   January-25-2017
 
 
-  [Full Changelog](https://github.com/pubnub/java/compare/v4.4.0...v4.4.1)
+  [Full Changelog](https://github.com/immigrantsheep/java/compare/v4.4.0...v4.4.1)
 
 
 
 - 🐛SDK did not honor the exhaustion of reconnections, it will now disconnect once max retries happened
 
 
-## [v4.4.0](https://github.com/pubnub/java/tree/v4.4.0)
+## [v4.4.0](https://github.com/immigrantsheep/java/tree/v4.4.0)
   January-24-2017
 
 
-  [Full Changelog](https://github.com/pubnub/java/compare/v4.3.1...v4.4.0)
+  [Full Changelog](https://github.com/immigrantsheep/java/compare/v4.3.1...v4.4.0)
 
 
 - ⭐Support for maximum reconnection attempts
@@ -299,22 +299,22 @@
 
 
 
-## [v4.3.1](https://github.com/pubnub/java/tree/v4.3.1)
+## [v4.3.1](https://github.com/immigrantsheep/java/tree/v4.3.1)
   December-22-2016
 
 
-  [Full Changelog](https://github.com/pubnub/java/compare/v4.3.0...v4.3.1)
+  [Full Changelog](https://github.com/immigrantsheep/java/compare/v4.3.0...v4.3.1)
 
 
 - ⭐support for key-level grant.
 
 
 
-## [v4.3.0](https://github.com/pubnub/java/tree/v4.3.0)
+## [v4.3.0](https://github.com/immigrantsheep/java/tree/v4.3.0)
   December-14-2016
 
 
-  [Full Changelog](https://github.com/pubnub/java/compare/v4.2.3...v4.3.0)
+  [Full Changelog](https://github.com/immigrantsheep/java/compare/v4.2.3...v4.3.0)
 
 
 - ⭐JSON parser is switched to GSON, new artifact on nexus as pubnub-gson
@@ -324,32 +324,32 @@
 
 
 
-## [v4.2.3](https://github.com/pubnub/java/tree/v4.2.3)
+## [v4.2.3](https://github.com/immigrantsheep/java/tree/v4.2.3)
 
 
-  [Full Changelog](https://github.com/pubnub/java/compare/v4.2.2...v4.2.3)
+  [Full Changelog](https://github.com/immigrantsheep/java/compare/v4.2.2...v4.2.3)
 
 
 - ⭐Swapping out logger for slf4japi and removing final methods
 
 
 
-## [v4.2.2](https://github.com/pubnub/java/tree/v4.2.2)
+## [v4.2.2](https://github.com/immigrantsheep/java/tree/v4.2.2)
   December-09-2016
 
 
-  [Full Changelog](https://github.com/pubnub/java/compare/v4.2.1...v4.2.2)
+  [Full Changelog](https://github.com/immigrantsheep/java/compare/v4.2.1...v4.2.2)
 
 
 - ⭐remove final identifiers from the public facing API.
 
 
 
-## [v4.2.1](https://github.com/pubnub/java/tree/v4.2.1)
+## [v4.2.1](https://github.com/immigrantsheep/java/tree/v4.2.1)
   November-23-2016
 
 
-  [Full Changelog](https://github.com/pubnub/java/compare/v4.2.0...v4.2.1)
+  [Full Changelog](https://github.com/immigrantsheep/java/compare/v4.2.0...v4.2.1)
 
 
 - ⭐include publisher UUID on incoming message
@@ -359,11 +359,11 @@
 
 
 
-## [v4.2.0](https://github.com/pubnub/java/tree/v4.2.0)
+## [v4.2.0](https://github.com/immigrantsheep/java/tree/v4.2.0)
   October-25-2016
 
 
-  [Full Changelog](https://github.com/pubnub/java/compare/v4.1.0...v4.2.0)
+  [Full Changelog](https://github.com/immigrantsheep/java/compare/v4.1.0...v4.2.0)
 
 
 - ⭐Signatures are generated for all requests with secret key to ensure secure transmission of data
@@ -376,11 +376,11 @@
 
 
 
-## [v4.1.0](https://github.com/pubnub/java/tree/v4.1.0)
+## [v4.1.0](https://github.com/immigrantsheep/java/tree/v4.1.0)
   October-12-2016
 
 
-  [Full Changelog](https://github.com/pubnub/java/compare/v4.0.14...v4.1.0)
+  [Full Changelog](https://github.com/immigrantsheep/java/compare/v4.0.14...v4.1.0)
 
 
 - ⭐destory now correctly forces the producer thread to shut down; stop is now deprecated for disconnect
@@ -396,66 +396,66 @@
 
 
 
-## [v4.0.14](https://github.com/pubnub/java/tree/v4.0.14)
+## [v4.0.14](https://github.com/immigrantsheep/java/tree/v4.0.14)
   September-20-2016
 
 
-  [Full Changelog](https://github.com/pubnub/java/compare/v4.0.13...v4.0.14)
+  [Full Changelog](https://github.com/immigrantsheep/java/compare/v4.0.13...v4.0.14)
 
 
 - ⭐on PAM error, populate the affectedChannel or affectedChannelGroup to signal which channels are failing
 
 
 
-## [v4.0.13](https://github.com/pubnub/java/tree/v4.0.13)
+## [v4.0.13](https://github.com/immigrantsheep/java/tree/v4.0.13)
   September-14-2016
 
 
-  [Full Changelog](https://github.com/pubnub/java/compare/v4.0.12...v4.0.13)
+  [Full Changelog](https://github.com/immigrantsheep/java/compare/v4.0.12...v4.0.13)
 
 
 - ⭐populate jso with the error.
 
 
 
-## [v4.0.12](https://github.com/pubnub/java/tree/v4.0.12)
+## [v4.0.12](https://github.com/immigrantsheep/java/tree/v4.0.12)
   September-13-2016
 
 
-  [Full Changelog](https://github.com/pubnub/java/compare/v4.0.11...v4.0.12)
+  [Full Changelog](https://github.com/immigrantsheep/java/compare/v4.0.11...v4.0.12)
 
 
 
 - 🐛fixing parsing of origination payload within the psv2 enevelope
 
 
-## [v4.0.11](https://github.com/pubnub/java/tree/v4.0.11)
+## [v4.0.11](https://github.com/immigrantsheep/java/tree/v4.0.11)
   September-09-2016
 
 
-  [Full Changelog](https://github.com/pubnub/java/compare/v4.0.10...v4.0.11)
+  [Full Changelog](https://github.com/immigrantsheep/java/compare/v4.0.10...v4.0.11)
 
 
 - ⭐bumping build process for gradle 3 / merging documentation into the repo and test adjustments
 
 
 
-## [v4.0.10](https://github.com/pubnub/java/tree/v4.0.10)
+## [v4.0.10](https://github.com/immigrantsheep/java/tree/v4.0.10)
   September-07-2016
 
 
-  [Full Changelog](https://github.com/pubnub/java/compare/v4.0.9...v4.0.10)
+  [Full Changelog](https://github.com/immigrantsheep/java/compare/v4.0.9...v4.0.10)
 
 
 - ⭐adding channel / channelGroup fields when a message / presence event comes in.
 
 
 
-## [v4.0.9](https://github.com/pubnub/java/tree/v4.0.9)
+## [v4.0.9](https://github.com/immigrantsheep/java/tree/v4.0.9)
   August-24-2016
 
 
-  [Full Changelog](https://github.com/pubnub/java/compare/v4.0.8...v4.0.9)
+  [Full Changelog](https://github.com/immigrantsheep/java/compare/v4.0.8...v4.0.9)
 
 
 - ⭐adjustments for handling pn_other and decryption
@@ -465,11 +465,11 @@
 
 
 
-## [v4.0.8](https://github.com/pubnub/java/tree/v4.0.8)
+## [v4.0.8](https://github.com/immigrantsheep/java/tree/v4.0.8)
   August-16-2016
 
 
-  [Full Changelog](https://github.com/pubnub/java/compare/v4.0.7...v4.0.8)
+  [Full Changelog](https://github.com/immigrantsheep/java/compare/v4.0.7...v4.0.8)
 
 - 🌟added unsubscribeAll, getSubscribedChannels, getSubscribedChannelGroups
 
@@ -482,108 +482,108 @@
 
 
 
-## [v4.0.7](https://github.com/pubnub/java/tree/v4.0.7)
+## [v4.0.7](https://github.com/immigrantsheep/java/tree/v4.0.7)
   August-11-2016
 
 
-  [Full Changelog](https://github.com/pubnub/java/compare/v4.0.6...v4.0.7)
+  [Full Changelog](https://github.com/immigrantsheep/java/compare/v4.0.6...v4.0.7)
 
 
 - ⭐reduce overlap on error handling when returning exceptions.
 
 
 
-## [v4.0.6](https://github.com/pubnub/java/tree/v4.0.6)
+## [v4.0.6](https://github.com/immigrantsheep/java/tree/v4.0.6)
   July-18-2016
 
 
-  [Full Changelog](https://github.com/pubnub/java/compare/v4.0.5...v4.0.6)
+  [Full Changelog](https://github.com/immigrantsheep/java/compare/v4.0.5...v4.0.6)
 
 
 - ⭐send heartbeat presence value when subscribing
 
 
 
-## [v4.0.5](https://github.com/pubnub/java/tree/v4.0.5)
+## [v4.0.5](https://github.com/immigrantsheep/java/tree/v4.0.5)
   July-07-2016
 
 
-  [Full Changelog](https://github.com/pubnub/java/compare/v4.0.4...v4.0.5)
+  [Full Changelog](https://github.com/immigrantsheep/java/compare/v4.0.4...v4.0.5)
 
 
 - ⭐unified retrofit handling to lower amount of instances and sync'd the state methods.
 
 
 
-## [v4.0.4](https://github.com/pubnub/java/tree/v4.0.4)
+## [v4.0.4](https://github.com/immigrantsheep/java/tree/v4.0.4)
   June-24-2016
 
 
-  [Full Changelog](https://github.com/pubnub/java/compare/v4.0.3...v4.0.4)
+  [Full Changelog](https://github.com/immigrantsheep/java/compare/v4.0.3...v4.0.4)
 
 
 
 - 🐛setting State for other UUID's is now supported.
 
 
-## [v4.0.3](https://github.com/pubnub/java/tree/v4.0.3)
+## [v4.0.3](https://github.com/immigrantsheep/java/tree/v4.0.3)
   June-15-2016
 
 
-  [Full Changelog](https://github.com/pubnub/java/compare/v4.0.2...v4.0.3)
+  [Full Changelog](https://github.com/immigrantsheep/java/compare/v4.0.2...v4.0.3)
 
 - 🌟fire() method and no-replicaton options.
 
 
 
 
-## [v4.0.2](https://github.com/pubnub/java/tree/v4.0.2)
+## [v4.0.2](https://github.com/immigrantsheep/java/tree/v4.0.2)
   June-15-2016
 
 
-  [Full Changelog](https://github.com/pubnub/java/compare/v4.0.1...v4.0.2)
+  [Full Changelog](https://github.com/immigrantsheep/java/compare/v4.0.1...v4.0.2)
 
 
 
 - 🐛fix to the version fetching.
 
 
-## [v4.0.1](https://github.com/pubnub/java/tree/v4.0.1)
+## [v4.0.1](https://github.com/immigrantsheep/java/tree/v4.0.1)
   June-06-2016
 
 
-  [Full Changelog](https://github.com/pubnub/java/compare/v4.0.0...v4.0.1)
+  [Full Changelog](https://github.com/immigrantsheep/java/compare/v4.0.0...v4.0.1)
 
 
 
 - 🐛adjustment of the subscribe loop to alleviate duplicate dispatches.
 
 
-## [v4.0.0](https://github.com/pubnub/java/tree/v4.0.0)
+## [v4.0.0](https://github.com/immigrantsheep/java/tree/v4.0.0)
   June-03-2016
 
 
-  [Full Changelog](https://github.com/pubnub/java/compare/v4.0.0-beta4...v4.0.0)
+  [Full Changelog](https://github.com/immigrantsheep/java/compare/v4.0.0-beta4...v4.0.0)
 
 
 
 - 🐛first GA.
 
 
-## [v4.0.0-beta4](https://github.com/pubnub/java/tree/v4.0.0-beta4)
+## [v4.0.0-beta4](https://github.com/immigrantsheep/java/tree/v4.0.0-beta4)
 
 
-  [Full Changelog](https://github.com/pubnub/java/compare/v4.0.0-beta3...v4.0.0-beta4)
+  [Full Changelog](https://github.com/immigrantsheep/java/compare/v4.0.0-beta3...v4.0.0-beta4)
 
 
 - ⭐reconnects and minor adjustments.
 
 
 
-## [v4.0.0-beta3](https://github.com/pubnub/java/tree/v4.0.0-beta3)
+## [v4.0.0-beta3](https://github.com/immigrantsheep/java/tree/v4.0.0-beta3)
 
 
-  [Full Changelog](https://github.com/pubnub/java/compare/v4.0.0-beta2...v4.0.0-beta3)
+  [Full Changelog](https://github.com/immigrantsheep/java/compare/v4.0.0-beta2...v4.0.0-beta3)
 
 
 
@@ -593,10 +593,10 @@
 - 🐛adjustments to URL encoding on publish, subscribe, set-state operations to avoid double encoding with retrofit.
 
 
-## [v4.0.0-beta2](https://github.com/pubnub/java/tree/v4.0.0-beta2)
+## [v4.0.0-beta2](https://github.com/immigrantsheep/java/tree/v4.0.0-beta2)
 
 
-  [Full Changelog](https://github.com/pubnub/java/compare/v4.0.0-beta1...v4.0.0-beta2)
+  [Full Changelog](https://github.com/immigrantsheep/java/compare/v4.0.0-beta1...v4.0.0-beta2)
 
 
 - ⭐reworking of message queue.
@@ -609,7 +609,7 @@
 
 
 
-## [v4.0.0-beta1](https://github.com/pubnub/java/tree/v4.0.0-beta1)
+## [v4.0.0-beta1](https://github.com/immigrantsheep/java/tree/v4.0.0-beta1)
 
 
 

@@ -1,12 +1,12 @@
 name: java
 version: 4.17.0
 schema: 1
-scm: github.com/pubnub/java
+scm: github.com/immigrantsheep/java
 files:
   - build/libs/pubnub-gson-4.17.0-all.jar
 changelog:
   - version: v4.17.0
-    date: 2017-12-14
+    date: 2017-12-18
     changes:
       - type: improvement
         text: test release
