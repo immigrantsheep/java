@@ -1,4 +1,15 @@
 
+## [v4.17.0](https://github.com/pubnub/java/tree/v4.17.0)
+  December-14-2017
+
+
+  [Full Changelog](https://github.com/pubnub/java/compare/v4.16.0...v4.17.0)
+
+
+- ⭐test release
+
+
+
 ## [v4.16.0](https://github.com/pubnub/java/tree/v4.16.0)
   November-21-2017
 
